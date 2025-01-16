@@ -1,0 +1,8 @@
+{
+  "name": "MyRecipes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "0d318343"
+}
